@@ -1,6 +1,6 @@
 # Namoza Developer Assignment — OrthoNow
 
-**Submitted by:** [Himanshu Ranjan]
+**Submitted by:** [Rajnish Rai]
 **Role applied for:** Developer
 ---
 
